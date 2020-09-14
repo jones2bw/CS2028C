@@ -49,7 +49,7 @@ Lab Grading:
 2.	15% - Task 1 has been correctly implemented and meets all requirements.
 3.	5% - Task 2 has been correctly implemented and meets all requirements. 
 4.	15% - Task 3 has been correctly implemented and meets all requirements. 
-5.	15% - Task 4 has been correctly implemented and meets all requirements. 
+5.	15% - Task 4 has been correctly implemented and meets all requirements.  
 6.	10% - Task 5: Task 3 & Task4 implementation has been properly explained along with the choice of data structure used. Discussion questions has been properly answered.
 7.	20% - Lab report contains all required information and is well written.
 If program fails to compile, 0% will be given for that Task.
